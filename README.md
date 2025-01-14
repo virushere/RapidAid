@@ -1,11 +1,3 @@
-**Team members and contact information:**
-| Name|
-| -------------|
-| 1. Yash Vyas|
-| 2. Sanket Thakare|
-| 3. Dattaprasad Shivrame|
-| 4. Dr. Pramod R Rodge|
-
 # Rapid Aid - Android Application for Emergency Services
 
 RapidAid is an Android application designed to streamline emergency services and improve response times during critical situations. This project aims to bridge the communication gap between emergency service providers and traffic police, ultimately saving lives through efficient coordination.
@@ -48,6 +40,14 @@ In times of emergency, every second counts. RapidAid addresses the challenges fa
 ## Motivation
 
 The project was inspired by the increasing death toll due to delayed emergency responses, especially during the COVID-19 pandemic. It aims to provide a cost-effective, software-based solution to improve emergency response times and save lives.
+
+**Team members and contact information:**
+| Name|
+| -------------|
+| 1. Yash Vyas|
+| 2. Sanket Thakare|
+| 3. Dattaprasad Shivrame|
+| 4. Dr. Pramod R Rodge|
 
 ## Future Scope
 
