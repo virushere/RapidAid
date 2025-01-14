@@ -41,7 +41,7 @@ In times of emergency, every second counts. RapidAid addresses the challenges fa
 
 The project was inspired by the increasing death toll due to delayed emergency responses, especially during the COVID-19 pandemic. It aims to provide a cost-effective, software-based solution to improve emergency response times and save lives.
 
-## Team members and contact information
+## Team members
 
 | Name|
 | -------------|
